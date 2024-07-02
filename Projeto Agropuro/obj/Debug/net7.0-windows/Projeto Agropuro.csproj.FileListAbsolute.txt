@@ -1,0 +1,23 @@
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\Projeto Agropuro.exe
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\Projeto Agropuro.deps.json
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\Projeto Agropuro.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\Projeto Agropuro.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\Projeto Agropuro.pdb
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Form1.resources
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.csproj.GenerateResource.cache
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto .CFCF3AE7.Up2Date
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\refint\Projeto Agropuro.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.pdb
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\ref\Projeto Agropuro.dll
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Properties.Resources.resources
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.PaginaLogin.resources
