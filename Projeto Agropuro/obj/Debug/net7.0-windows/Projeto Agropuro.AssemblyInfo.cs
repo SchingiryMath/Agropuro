@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto Agropuro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccd2d29ef6566a2f190b32a84b2b67e09ad4eabd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto Agropuro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto Agropuro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

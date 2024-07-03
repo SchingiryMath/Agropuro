@@ -21,3 +21,4 @@ C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\ref\Projeto Agropuro.dll
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Properties.Resources.resources
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.PaginaLogin.resources
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.sourcelink.json
