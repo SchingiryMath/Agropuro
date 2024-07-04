@@ -7,7 +7,6 @@ C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\System.Management.dll
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.csproj.AssemblyReference.cache
-C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Form1.resources
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.csproj.GenerateResource.cache
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.AssemblyInfoInputs.cache
@@ -22,3 +21,4 @@ C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Properties.Resources.resources
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.PaginaLogin.resources
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.sourcelink.json
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Telas.PaginaInicial.resources

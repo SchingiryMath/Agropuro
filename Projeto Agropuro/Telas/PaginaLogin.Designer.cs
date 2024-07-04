@@ -58,6 +58,7 @@
             label1 = new Label();
             guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            label5 = new Label();
             guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
             guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
@@ -146,6 +147,7 @@
             guna2Button1.Size = new Size(109, 40);
             guna2Button1.TabIndex = 3;
             guna2Button1.Text = "Entrar";
+            guna2Button1.Click += guna2Button1_Click;
             // 
             // label2
             // 
@@ -188,6 +190,7 @@
             // 
             guna2Panel2.BorderColor = Color.FromArgb(122, 154, 134);
             guna2Panel2.BorderRadius = 16;
+            guna2Panel2.Controls.Add(label5);
             guna2Panel2.Controls.Add(guna2Button2);
             guna2Panel2.Controls.Add(guna2TextBox2);
             guna2Panel2.Controls.Add(guna2TextBox1);
@@ -204,6 +207,18 @@
             guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges12;
             guna2Panel2.Size = new Size(335, 329);
             guna2Panel2.TabIndex = 1;
+            // 
+            // label5
+            // 
+            label5.BackColor = Color.Transparent;
+            label5.ForeColor = Color.Red;
+            label5.Location = new Point(86, 217);
+            label5.Name = "label5";
+            label5.Size = new Size(157, 23);
+            label5.TabIndex = 6;
+            label5.Text = "Usuario ou Senha Incorreto";
+            label5.Visible = false;
+            label5.Click += label5_Click;
             // 
             // guna2Button2
             // 
@@ -228,6 +243,7 @@
             guna2Button2.Size = new Size(165, 40);
             guna2Button2.TabIndex = 5;
             guna2Button2.Text = "Cadastrar";
+            guna2Button2.Click += guna2Button2_Click;
             // 
             // guna2TextBox2
             // 
@@ -359,7 +375,9 @@
             ForeColor = Color.FromArgb(155, 160, 154);
             FormBorderStyle = FormBorderStyle.None;
             Name = "PaginaLogin";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "PaginaLogin";
+            Load += PaginaLogin_Load;
             guna2Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)guna2PictureBox1).EndInit();
             guna2Panel2.ResumeLayout(false);
@@ -385,5 +403,6 @@
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox2;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
+        private Label label5;
     }
 }
