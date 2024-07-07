@@ -22,3 +22,4 @@ C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.PaginaLogin.resources
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto Agropuro.sourcelink.json
 C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Telas.PaginaInicial.resources
+C:\Users\Matheus\Documents\Projetos\Projeto Agropuro\Projeto Agropuro\obj\Debug\net7.0-windows\Projeto_Agropuro.Telas.PaginaClientes.ClienteInicial.resources

@@ -14,6 +14,8 @@ namespace Projeto_Agropuro
 {
     public partial class PaginaLogin : Form
     {
+        string EmailC = "matheussschingiry@gmail.com";
+        string SenhaC = "Picapau02";
         Thread t1;
         public PaginaLogin()
         {
@@ -48,6 +50,11 @@ namespace Projeto_Agropuro
         }
 
         private void PaginaLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ValidacaoEmail(string email)
         {
 
         }

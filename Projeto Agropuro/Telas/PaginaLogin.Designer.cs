@@ -131,6 +131,7 @@
             guna2Button1.BorderColor = Color.White;
             guna2Button1.BorderRadius = 18;
             guna2Button1.BorderThickness = 2;
+            guna2Button1.Cursor = Cursors.Hand;
             guna2Button1.CustomizableEdges = customizableEdges13;
             guna2Button1.DisabledState.BorderColor = Color.DarkGray;
             guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray;
@@ -227,6 +228,7 @@
             guna2Button2.BorderColor = Color.FromArgb(149, 139, 138);
             guna2Button2.BorderRadius = 18;
             guna2Button2.BorderThickness = 2;
+            guna2Button2.Cursor = Cursors.Hand;
             guna2Button2.CustomizableEdges = customizableEdges5;
             guna2Button2.DisabledState.BorderColor = Color.DarkGray;
             guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray;
@@ -276,6 +278,7 @@
             guna2TextBox2.ShadowDecoration.CustomizableEdges = customizableEdges8;
             guna2TextBox2.Size = new Size(236, 36);
             guna2TextBox2.TabIndex = 3;
+            guna2TextBox2.Tag = "SenhaP";
             // 
             // guna2TextBox1
             // 
@@ -308,6 +311,7 @@
             guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges10;
             guna2TextBox1.Size = new Size(236, 36);
             guna2TextBox1.TabIndex = 2;
+            guna2TextBox1.Tag = "EmailP";
             // 
             // label4
             // 
@@ -336,6 +340,7 @@
             guna2ControlBox1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             guna2ControlBox1.Animated = true;
             guna2ControlBox1.BorderRadius = 6;
+            guna2ControlBox1.Cursor = Cursors.Hand;
             guna2ControlBox1.CustomizableEdges = customizableEdges3;
             guna2ControlBox1.FillColor = Color.FromArgb(84, 119, 97);
             guna2ControlBox1.HoverState.FillColor = Color.Red;
@@ -352,6 +357,7 @@
             guna2ControlBox2.Animated = true;
             guna2ControlBox2.BorderRadius = 6;
             guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
+            guna2ControlBox2.Cursor = Cursors.Hand;
             guna2ControlBox2.CustomizableEdges = customizableEdges1;
             guna2ControlBox2.FillColor = Color.FromArgb(84, 119, 97);
             guna2ControlBox2.HoverState.FillColor = Color.Blue;
@@ -374,6 +380,7 @@
             Controls.Add(guna2Panel1);
             ForeColor = Color.FromArgb(155, 160, 154);
             FormBorderStyle = FormBorderStyle.None;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "PaginaLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "PaginaLogin";

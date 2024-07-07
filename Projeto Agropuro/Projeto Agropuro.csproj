@@ -10,6 +10,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Telas\PaginaCliente\**" />
+    <EmbeddedResource Remove="Telas\PaginaCliente\**" />
+    <None Remove="Telas\PaginaCliente\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="guna.ui2.winforms" Version="2.0.4.6" />
   </ItemGroup>
 
